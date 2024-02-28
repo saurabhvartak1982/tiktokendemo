@@ -44,16 +44,16 @@ Below are the steps to be carried out to use the code:
 
 - **Step 3**: Fill up the details in the **.env** file
 
-- **Step 4**: To use **tiktokendemo_nonstream.py**
-Run this program as below:
+- **Step 4**: To use **tiktokendemo_nonstream.py** <br />
+Run this program as below: <br />
 ```python tiktokendemo_nonstream.py```
 
 On running the above program, you will be prompted to enter a question. Basis the response to the question, you will receive the number of tokens returned by Azure OpenAI and also the calculated tokens as marked in the below image:
 
 ![Output of tiktokendemo_nonstream.py](/images/tiktokendemo_nonstream.png)
 
-- **Step 5**: To use **tiktokendemo_stream.py**
-Run this program as below:
+- **Step 5**: To use **tiktokendemo_stream.py** <br />
+Run this program as below: <br />
 ```python tiktokendemo_stream.py```
 
 On running the above program, you will be prompted to enter a question. Basis the response to the question, you will receive the number of tokens calculated as marked in the below image:
@@ -61,5 +61,8 @@ On running the above program, you will be prompted to enter a question. Basis th
 ![Output of tiktokendemo_stream.py](/images/tiktokendemo_stream.png)
 
 ## Thank you and acknowledgements
-Satish Dadha (https://github.com/sdadha)
+Satish Dadha (https://github.com/sdadha) <br />
 Laziz Turakulov (https://github.com/LazaUK)
+
+## Disclaimer
+Views are personal. Reader's discretion is advised. Kindly perform thorough tests before implementation.
